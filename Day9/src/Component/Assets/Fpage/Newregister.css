@@ -1,0 +1,184 @@
+.bgrect{
+    position: absolute;
+    height:742px;
+    width:1485px;
+    background-color:rgba(238, 157, 86, 0.527);
+}
+.bgrect1{
+    position: absolute;
+    height:742px;
+    width:400px;
+    background-color: rgb(5, 28, 62);
+}
+.bgrect2{
+    position: absolute;
+    top:150px;
+    left:650px;
+    height:550px;
+    width:550px;
+    background-color:rgba(255, 255, 255, 0.489);
+}
+.pic
+{
+    position: absolute;
+    left:0px;
+    top:60px;
+    box-shadow: 100px;
+}
+.container
+{
+    display:flex;
+    flex-direction: column;
+    margin:auto;
+}
+.header
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    margin-top: 30px;;
+    width: 100%;
+}
+.text
+{
+    color:rgba(4, 33, 77, 0.867);
+    font-size: 30px;
+    font-weight: 700;
+}
+.underline
+{
+    height:4px;
+    width:60px;
+    border-radius: 10px;
+    background-color: black;
+}
+::placeholder
+{
+    display: flex;
+    align-items: center;
+    
+   border: rgba(5, 28, 62, 0.544);
+   outline: none;
+   font-size: 20px;
+   left:10px;
+   background-color: rgba(5, 28, 62, 0.544);
+   
+}
+.form1
+{
+    margin-top: 250px;
+    margin-left: -800px;
+    
+    gap:250;
+    margin-left:150px;
+    margin-top: 50px;;
+}
+.form1 input{
+    display: flex;
+    align-items: center;
+    color: azure;
+    font-size: 20px;
+    width:300px;
+    height:40px;
+    background-color : rgba(5, 28, 62, 0.842);
+    border-radius: 6px;
+   
+}
+.boxy33
+{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(16, 15, 15, 0) 0%, #100F0F 100%);
+    height: 640px;
+    width: 1485px;
+    top:100px;
+    left:0px;
+}
+
+
+
+
+.image1
+{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+   
+}
+.image2
+{
+    position: absolute;
+    top: 210px;
+    left: 400px;
+   
+}
+.button1
+{
+    
+    margin: auto;
+    width:100px;
+    height:40px;
+    color: azure;
+    background: rgba(5, 28, 62, 0.842);
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left:-200px;
+}
+.button2
+{
+    position: absolute;
+    margin: auto;
+    width:100px;
+    height:40px;
+    color: azure;
+    background: rgba(5, 28, 62, 0.842);
+    border-radius: 30px;
+    margin-top: 70px;
+    margin-left:-70px;
+
+}
+
+.fpassword
+{
+    position: absolute;
+    left:140px;
+    font-size: 20px;
+    top:370px;
+}
+.underline2
+{
+    position: absolute;
+    height:6px;
+    width:550px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.748);
+}
+.line3
+{
+    top:0px;
+    position: absolute;
+    height:550px;
+    width:6px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.748);
+}
+.line4
+{
+    top:0px;
+    left:545px;
+    position: absolute;
+    height:550px;
+    width:6px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.748);
+}
+.line5
+{
+    top:544px;
+    left:0px;
+    position: absolute;
+    height:6px;
+    width:550px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.748);
+}
