@@ -1,0 +1,104 @@
+.recom {
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    left:590px;
+    top:620px;
+  }
+  
+  .sugg h2 {
+    position: absolute;
+    font-size: 24px;
+    margin-bottom: 20px;
+    top:10px;
+  }
+  
+ .sugg form {
+    position: absolute;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    top:440px;
+    left:100px;
+    
+  }
+  .sugg ::placeholder
+  {
+    color: black;
+  }
+  
+  
+  .sugg label {
+    font-size: 18px;
+    margin: 2px 2;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+  }
+  
+  
+  .sugg input, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #655858;
+    border-radius: 4px;
+    font-size: 16px;
+   
+    background-color: #ffffff65;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+  }
+  
+  /* Button styles */
+  .sugg button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #b57e0fcd; /* Customize the button color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .sugg button:hover {
+    background-color: #0056b3; /* Customize the button color on hover */
+  }
+  
+  
+  .sugg {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  
+  .result{
+   
+    top:660px;
+    left:630px;
+    font-size: 32px;
+    font-weight:100px;
+  }
+  .giffy
+  {
+    position: absolute;
+    top:-100px;
+    left:300px;
+  }
+  .suggfull
+  {
+    position: absolute;
+    height: 740px;
+    width: 1480px;
+    background-color: #ABE6E7;
+  }
+  .waterloader
+  {
+    position: absolute;
+    left:800px;
+    top:400px;
+    
+    
+  }
