@@ -1,0 +1,86 @@
+.Apic1{
+    position: absolute;
+    top:100px;
+    left:100px;
+    transition: transform 0.3s ease-in-out;
+    
+}
+.Apic2{
+    position: absolute;
+    top:550px;
+    left:100px;
+    transition: transform 0.3s ease-in-out;
+}
+.Apic3{
+    position: absolute;
+    top:1000px;
+    left:100px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.Aboxy2
+{
+    position: absolute;
+   
+    height: 300px;
+    width: 400px;
+    top:660px;
+    left:860px;
+    font-family:'Jumper PERSONAL USE ONLY';
+    color:rgb(15, 83, 83);
+    line-height: 1.5;
+    justify-content: flex-start;
+}
+.Aboxy3
+{
+    position: absolute;
+    
+    height: 300px;
+    width: 400px;
+    top:1090px;
+    left:860px;
+    font-family:'Jumper PERSONAL USE ONLY';
+    color:rgb(15, 83, 83);
+    line-height: 1.5;
+    justify-content: flex-start;
+    
+}
+.Aboxy1
+{
+    position: absolute;
+    
+    height: 300px;
+    width: 400px;
+    top:170px;
+    left:860px;
+    font-size: 0px;
+    font-family:'Jumper PERSONAL USE ONLY';
+    color:rgb(15, 83, 83);
+    line-height: 1.5;
+    justify-content: flex-start;
+
+}
+.Apic1:hover
+{
+    transform: scale(1.1);
+}
+.Apic2:hover
+{
+    transform: scale(1.1);
+}
+.Apic3:hover
+{
+    transform: scale(1.1);
+}
+.Aboxy1:hover
+{
+    transform: scale(1.4);
+}
+.Aboxy2:hover
+{
+    transform: scale(1.4);
+}
+.Aboxy3:hover
+{
+    transform: scale(1.4);
+}
