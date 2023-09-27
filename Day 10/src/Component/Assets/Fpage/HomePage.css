@@ -1,0 +1,179 @@
+.pic2{
+    position: absolute;
+    top:60px;
+    margin-left:-50px;
+}
+
+.username
+{
+    position: absolute;
+    top:290px;
+    left:1150px;
+    font-size: 40px;
+    color: rgb(213, 61, 38);
+}
+
+
+.pic3
+{
+    position: absolute;
+    top:330px;
+    left:1210px;
+}
+.too p
+{
+    position: absolute;
+    top:500px;
+    left:780px;
+    font-size:50px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(4, 102, 113);
+}
+.sports
+{
+    position: absolute;
+    left: 0px;
+    top:820px;
+}
+.para 
+{
+    position: absolute;
+    top:550px;
+    left:250px;
+    font-size:larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:normal;
+    color: rgb(18, 166, 189);
+}
+.fatigue
+{
+    position: absolute;
+    top:700px;
+    left:500px;
+
+}
+.benefits
+{
+    position: absolute;
+    height: 180px;
+    width: 150px;
+    top:700px;
+    left:720px;
+}
+.boxy1
+{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(16, 15, 15, 0) 0%, #100F0F 100%);
+    height: 180px;
+    width: 200px;
+    top:700px;
+    left:500px;
+}
+.headache
+{
+    position: absolute;
+    
+    height: 180px;
+    width: 150px;
+    top:700px;
+    left:940px;
+}
+.woman
+{
+    position: absolute;
+    height: 180px;
+    width: 150px;
+    top:700px;
+    left: 1160px;
+}
+.boxy2
+{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(16, 15, 15, 0) 0%, #100F0F 100%);
+    height: 180px;
+    width: 200px;
+    top:700px;
+    left:720px;
+}
+.boxy3
+{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(16, 15, 15, 0) 0%, #100F0F 100%);
+    height: 180px;
+    width: 200px;
+    top:700px;
+    left:940px;
+}
+.boxy4
+{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(16, 15, 15, 0) 0%, #100F0F 100%);
+    height: 180px;
+    width: 200px;
+    top:700px;
+    left:1160px;
+}
+.fattext
+{
+  position: absolute;
+  top:835px;
+  color: rgb(245, 245, 245);
+  left:550px;
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+}
+.bentext
+{
+  position: absolute;
+  top:820px;
+  color: rgb(245, 245, 245);
+  left:790px;
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.headtext
+{
+  position: absolute;
+  top:820px;
+  color: rgb(245, 245, 245);
+  left:1000px;
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+    
+ 
+}
+.womtext
+{
+  position: absolute;
+  top:820px;
+  color: rgb(245, 245, 245);
+  left:1230px;
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.detail
+{
+    position: absolute;
+    top:450px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 1000px;
+    font-size:20px;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(18, 166, 189);
+    
+    
+
+}
+
+
