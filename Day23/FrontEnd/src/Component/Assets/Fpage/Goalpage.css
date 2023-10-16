@@ -1,0 +1,59 @@
+
+.goalpage {
+  text-align: center;
+  margin-top: 200px;
+  max-width: 600px;
+ margin-left:800px;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.goalpage h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.goalpage label {
+  font-weight: bold;
+}
+
+.goalpage select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.goalpage button {
+  background-color: #e09834;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.goalpage button:hover {
+  background-color: #cd8123;
+}
+
+.goalpage .result {
+  margin-top: 20px;
+}
+
+.goalpage h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.waterloader1
+  {
+    position: absolute;
+    top: 100px;
+    left: 250px;
+  }
